@@ -26,5 +26,3 @@ I dedicate average 12 hours per week to improving my technical skills. This road
 
 
 
-
-Portfolio-ready notebooks, dashboards, and scripts
